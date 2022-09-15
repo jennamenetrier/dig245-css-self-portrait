@@ -11,14 +11,12 @@
   background-color: rgb(138,108,63);
   width: 27px;
   height: 69.835px;
-
   position:absolute;
   transform: matrix(-1,0,0,1,87.0001,81.7187);}
 #undershirt1{
   background-color: white;
   width: 75px;
   height: 69.835px;
-
   position: absolute;
 }
 #undershirt2{
@@ -31,8 +29,7 @@
 background-color: #F5F5F5;
 width: 60px;
 height: 222.01px;
-X:-326px;
-y:-462.57px
-
-position:absolute;
+x:-326px;
+y:-462.57px;
+position: absolute;
 }
