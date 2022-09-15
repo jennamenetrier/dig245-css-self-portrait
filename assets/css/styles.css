@@ -6,19 +6,19 @@
   width: 344px;
   height: 444px;
   position: absolute;
-  z-index: 31;}
+  }
 #hair {
   background-color: rgb(138,108,63);
   width: 27px;
   height: 69.835px;
-  z-index: 2;
+
   position:absolute;
   transform: matrix(-1,0,0,1,87.0001,81.7187);}
 #undershirt1{
   background-color: white;
   width: 75px;
   height: 69.835px;
-  z-index: 3;
+
   position: absolute;
 }
 #undershirt2{
@@ -33,6 +33,6 @@ width: 60px;
 height: 222.01px;
 X:-326px;
 y:-462.57px
-z-index: 2;
+
 position:absolute;
 }
