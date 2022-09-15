@@ -4,3 +4,7 @@
 body {
   background:#0F9FBE;
 }
+h1{
+  align-content: center;
+  color: inherit;
+}
