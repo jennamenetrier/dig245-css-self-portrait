@@ -2,13 +2,30 @@
 
 /* css */
 #sky {
-  background:#0F9FBE;
+  background: #0F9FBE;
   width: 344px;
   height: 444px;
-  z-index: 1;
-  top: 0px;
-  left: 0px;
+  position: absolute;
+  z-index: 1;}
+#hair {
+  color: rgb(138,108,63);
+  width: 27px;
+  height: 69.835px;
+  z-index: 2
+  transform: matrix(-1,0,0,1,87.0001,81.7187);}
+#undershirt1{
+  color: white;
+  width: 75px;
+  height: 69.835px;
+  z-index: 3;
+  X: -305px;
+  Y: -463.4px;
 }
-h1{
-  align-content: center;
+#undershirt2{
+  color: white;
+  width: 75px;
+  height:69.83;
+}
+#horse1{
+  
 }
