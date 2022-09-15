@@ -38,8 +38,8 @@
 }
 #jacket3 {
   background-color: #0D2911;
-  width: 13.3348;
-  height: 19.3226;
+  width: 13.3348px;
+  height: 19.3226px;
   transform: matrix(0.63, 0.81, -0.75, 0.63, 0, 0);
   position: absolute;
 }
@@ -50,7 +50,6 @@
   width: 75px;
   height: 69.83px;
   position: absolute;
-  transform: matrix(x, y);
 }
 #jacket4{
   width: 41.2875px;
@@ -65,7 +64,6 @@
   position: absolute;
   top: -401.08px;
   left:-199px;
-  transform: matrix(top, left);
 }
 #jacket6{
   background-color: #0D2911;
@@ -74,5 +72,48 @@
   position: absolute;
   top: -435.47px;
   left: -179px;
-  transform: matrix(top, left);
+}
+#jacket7{
+  position: absolute;
+  width: 20.46px;
+  height: 59.07;
+  background: #0D2911;
+  transform: matrix(0.93, -0.41, 0.37, 0.92, 0, 0);
+}
+#jacket8{
+  position:absolute;
+  width: 57.05px;
+  height: 60.08px;
+  background: #0D2911;
+  transform: matrix(0.99, 0.15, -.14, 0.99, 0, 0);
+}
+#jacket9{
+  position: absolute;
+  width: 56.23px;
+  height: 59.19px;
+  background: #0D2911;
+  transform: matrix(0.95, 0.32, -0.29, 0.95, 0, 0);
+}
+#jacket10{
+  position: absolute;
+  width: 73px;
+  height: 85.99px;
+  background: #0D2911;
+  top: -461.53px;
+  left: -315px;
+}
+#jacket11{
+  position: absolute;
+  width: 95.3px;
+  height: 92.18px;
+  background: #0D2911;
+  transform: matrix(0.97, -0.24, 0.22, 0.97, 0, 0);
+}
+#undershirt2{
+  position: absolute;
+  width: 42px;
+  height: 12.51px;
+  background: white;
+  top:-458.4px;
+  left: -250px;
 }
