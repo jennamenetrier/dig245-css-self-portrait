@@ -19,8 +19,6 @@
   width: 75px;
   height: 69.835px;
   z-index: 3;
-  X: -305px;
-  Y: -463.4px;
   position: absolute;
 }
 #undershirt2{
@@ -30,5 +28,11 @@
   position: absolute;
 }
 #horse1{
-
+color: #F5F5F5;
+width: 60px;
+height: 222.01px;
+top: -462.57px;
+left: -326px;
+z-index: 2;
+position:absolute;
 }
