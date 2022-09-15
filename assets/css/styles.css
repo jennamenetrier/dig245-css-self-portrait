@@ -8,27 +8,27 @@
   position: absolute;
   z-index: 0;}
 #hair {
-  color: rgb(138,108,63);
+  background-color: rgb(138,108,63);
   width: 27px;
   height: 69.835px;
   z-index: 2;
   position:absolute;
   transform: matrix(-1,0,0,1,87.0001,81.7187);}
 #undershirt1{
-  color: white;
+  background-color: white;
   width: 75px;
   height: 69.835px;
   z-index: 3;
   position: absolute;
 }
 #undershirt2{
-  color: white;
+  background-color: white;
   width: 75px;
   height:69.83;
   position: absolute;
 }
 #horse1{
-color: #F5F5F5;
+background-color: #F5F5F5;
 width: 60px;
 height: 222.01px;
 top: -462.57px;
