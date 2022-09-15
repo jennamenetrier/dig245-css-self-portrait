@@ -1,5 +1,11 @@
 
 /* javascript */
+document.addEventListener('mousemove', (event) =>{
+  var posx = event.clientX;
+  var posy = event.clientY;
+  var coords = "X" + posx + ", Y: " + posy;
+  document.getElementById("display").innerHTML = coords;
+});
 
 var bauhaus = `
 
