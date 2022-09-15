@@ -1,10 +1,14 @@
 
 
 /* css */
-body {
+sky {
   background:#0F9FBE;
+  width: 344px;
+  height: 444px;
+  z-index: 1;
+  top: 0px;
+  left: 0px;
 }
 h1{
   align-content: center;
-  color: inherit;
 }
