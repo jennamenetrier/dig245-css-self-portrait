@@ -7,29 +7,52 @@
   height: 444px;
   position: absolute;
   }
+  #horse1 {
+  background-color: #F5F5F5;
+  width: 60px;
+  height: 222.01px;
+  x:30.0001px;
+  y:148.427px;
+  position: absolute;
+  }
 #hair {
   background-color: rgb(138,108,63);
   width: 27px;
   height: 69.835px;
   position:absolute;
-  transform: matrix(-1,0,0,1,87.0001,81.7187);}
+  transform: matrix(-1,0,0,1,87.0001,81.7187);
+}
+#jacket1 {
+  background-color: #0D2911;
+  width: 66.0107px;
+  height: 50.3651px;
+  transform: matrix(-0.468229 -0.8836007 0.866645 -0.498926 64.9082 293.379);
+  position: absolute;
+}
+#jacket2{
+  background-color: #0D2911;
+  width: 66.0107px;
+  height: 51.1362px;
+  transform: matrix(0.714987 -0.699138 0.668987 0.7743274 63.0137 293.379);
+  position: absolute;
+}
+#jacket3 {
+  background-color: #0D2911;
+  width: 13.3348;
+  height: 19.3226;
+  transform: matrix(0.613725 0.78952 -0.764003 0.645212 192.763 164.061);
+  position: absolute;
+}
 #undershirt1{
   background-color: white;
-  width: 75px;
+  x:93.001px;
+  y: 164.061;
+  width: 75;
   height: 69.835px;
-  position: absolute;
 }
-#undershirt2{
-  background-color: white;
-  width: 75px;
-  height:69.83;
-  position: absolute;
+#jacket4{
+  width: 41.2875px;
+  height: 28.0534px;
+  transform: matrix(0.956205 0.292696 -0.271195 0.962524 166.688 155.747);
 }
-#horse1{
-background-color: #F5F5F5;
-width: 60px;
-height: 222.01px;
-x:-326px;
-y:-462.57px;
-position: absolute;
-}
+#jacket5 {}
