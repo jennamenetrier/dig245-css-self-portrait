@@ -1,12 +1,13 @@
 
 /* javascript */
-document.addEventListener('mousemove', (event) =>{
-  var posx = event.clientX;
-  var posy = event.clientY;
-  var coords = "X" + posx + ", Y: " + posy;
-  document.getElementById("display").innerHTML = coords;
+var number = document.querySelectorAll("div");
+var length = number.length - 1;
+console.log("This shows the number of Portrait elements in this project ",length);
+// shows x,y coordinates//
+window.addEventListener('mousemove', function(e){
+  document.getElementById('x-value').textContent = e.x;
+  document.getElementById('y-value').textContent = e.y;
 });
-
 var bauhaus = `
 
 Staaatliches Bauhaus (1919-1933)
